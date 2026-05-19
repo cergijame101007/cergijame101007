@@ -19,15 +19,15 @@ My research focuses on building an **accumulated temperature forecasting system 
 
 ## 🧑‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,ruby,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,python,ruby,php,go" /> <br /><br />
 
 ## 🧩 Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nodejs,flask,fastapi,laravel,wordpress,tailwind,materialui,supabase,raspberrypi" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,vue,nodejs,fastapi,laravel,tailwind,supabase,raspberrypi" /> <br /><br />
 
 ## 🗄️ DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git" /> <br /><br />
 <!--
 **cergijame101007/cergijame101007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
